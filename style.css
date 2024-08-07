@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(117, 89, 47);
+}
+
+a{
+    text-decoration: none;
+    color: beige;
+}
+
+.photoName{
+    display: flex;
+    justify-content: center;
+}
+
+.tituloIuri{
+    padding-top: -20px;
+}
+
+.profileText{
+    padding-left: 20px;
+    color: beige;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.descTitle{
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    top: -30px;
+}
+
+#tds{
+    display: flex;
+    position: relative;
+    top: -20px;
+}
+
+.personalPhoto{
+    width: 120px;
+    height: 125px;
+    border-radius: 100px;
+}
+
+.description{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer{
+    padding-left: 350px;
+    padding-right: 350px;
+    padding-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: end;
+}
+
+.social{
+    width: 20px;
+    height: 20px;
+}
+
+.postContent{
+    display: flex;
+}
