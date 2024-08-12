@@ -7,11 +7,6 @@ a{
     color: beige;
 }
 
-.photoName{
-    display: flex;
-    justify-content: center;
-}
-
 .tituloIuri{
     padding-top: -20px;
 }
@@ -31,7 +26,7 @@ a{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    top: -30px;
+    top: 5px;
 }
 
 #tds{
@@ -62,9 +57,15 @@ footer{
     align-items: end;
 }
 
+.headerSite{
+    padding-top: 10px;
+}
+
 .social{
-    width: 20px;
-    height: 20px;
+    width: 30px;
+    height: 40px;
+    position: relative;
+    padding-bottom: 10px;
 }
 
 .postContent{
