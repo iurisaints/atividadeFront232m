@@ -1,14 +1,18 @@
 body{
-    background-color: rgb(117, 89, 47);
+    background-color: rgb(59, 71, 39);
 }
 
-a{
+a, #hob{
     text-decoration: none;
     color: beige;
 }
 
 .tituloIuri{
     padding-top: -20px;
+}
+
+.imgCarou{
+    height: 400px;
 }
 
 .profileText{
